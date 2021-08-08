@@ -19,6 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjh-store&layout=compact)](https://github.com/cjh-store)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh-store&show_icons=true&theme=vue)](https://github.com/cjh-store)
+The new dark high contrast theme gives you greater contrast between foreground and background elements. To enable, go to settings > appearance, and select the dark high contrast theme. Please note, you may experience issues with other themes while in this beta, disable this Feature Preview if they are disruptive.
 
 
 
