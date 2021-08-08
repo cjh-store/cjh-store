@@ -1,5 +1,5 @@
 ![Phodal's Logo](http://brand.phodal.com/logo/small.svg)
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="380"/> <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> 
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/cjh-store/cjh-store@main/gif4.gif" width="380"/> <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> 
  <h3>Hi there, I'm <a href="https://cjh-store.github.io">Deja-vu</a> 👋 </h3> This is the place where I opensource stuff and break things 🐱‍🏍
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
