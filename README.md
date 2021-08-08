@@ -1,5 +1,5 @@
-<div style="display:flex;justify-content: center;align-items: center;"><img  alt="GIF"
-            src="https://github.com/cjh-store/cjh-store/blob/main/gif4.gif?raw=true" width="380" /></div>
+<img align="center"  alt="GIF"
+            src="https://github.com/cjh-store/cjh-store/blob/main/gif4.gif?raw=true" width="380" />
  <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> 
  <h3>Hi there, I'm <a href="https://cjh-store.github.io">Deja-vu</a> 👋 </h3> This is the place where I opensource stuff and break things 🐱‍🏍
 
