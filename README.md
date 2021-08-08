@@ -1,6 +1,4 @@
-![Phodal's Logo](http://brand.phodal.com/logo/small.svg)
-<img align="right" alt="GIF" src="https://github.com/cjh-store/cjh-store/blob/main/gif4.gif?raw=true" width="380"/> <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> 
- <h3>Hi there, I'm <a href="https://cjh-store.github.io">Deja-vu</a> 👋 </h3> This is the place where I opensource stuff and break things 🐱‍🏍
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -16,6 +14,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23E44D27?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node.js-%232c3e50?style=flat-square&logo=Node.js)
 
+<img  alt="GIF" src="https://github.com/cjh-store/cjh-store/blob/main/gif4.gif?raw=true" width="380"/> <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> 
+ <h3>Hi there, I'm <a href="https://cjh-store.github.io">Deja-vu</a> 👋 </h3> This is the place where I opensource stuff and break things 🐱‍🏍
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjh-store&layout=compact)](https://github.com/cjh-store) --> 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh-store&show_icons=true&theme=vue)](https://github.com/cjh-store)--> 
