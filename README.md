@@ -1,6 +1,9 @@
 ### Hi there, I'm [Deja-vu!](https://cjh-store.github.io) 👋
 This is the place where I opensource stuff and break things 🐱‍🏍
 
+
+<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2> <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="500"/> <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> <h3> 👨🏻‍💻 About Me </h3> - 🔭 &nbsp; Currently working with a company and improving my Flutter skills - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
