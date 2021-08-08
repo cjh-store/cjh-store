@@ -1,5 +1,5 @@
 ### Hi there, I'm [Deja-vu!](https://cjh-store.github.io) 👋
-This is the place where I opensource stuff and break things u🐱‍🏍
+This is the place where I opensource stuff and break things 🐱‍🏍
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
