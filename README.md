@@ -17,8 +17,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjh-store&layout=compact)](https://github.com/cjh-store)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh-store&show_icons=true&theme=vue)](https://github.com/cjh-store)
+
  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
 
 
