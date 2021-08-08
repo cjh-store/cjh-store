@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things 🐱‍🏍
 
 
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2> <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="500"/> <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> 
+ <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="500"/> <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
