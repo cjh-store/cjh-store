@@ -20,9 +20,6 @@ This is the place where I opensource stuff and break things 🐱‍🏍
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh-store&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
